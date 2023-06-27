@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for the client repository at https://github.com/JayCabasag/trivial-challenge-client:
-
----
 # Trivial Challenge Client
 
 This is the client application for the Trivial Challenge project. It is built using Next.js and serves as the front-end interface for the Trivial Challenge game.
